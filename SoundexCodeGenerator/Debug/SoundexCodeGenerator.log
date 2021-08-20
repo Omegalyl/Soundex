@@ -1,0 +1,8 @@
+﻿  soundex.cpp
+C:\Users\Shanks\source\repos\SoundexCodeGenerator\soundex.cpp(24,9): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shanks\source\repos\SoundexCodeGenerator\soundex.cpp(37,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shanks\source\repos\SoundexCodeGenerator\soundex.cpp(43,9): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shanks\source\repos\SoundexCodeGenerator\soundex.cpp(54,11): warning C4018: '<': signed/unsigned mismatch
+  SoundexCodeGenerator.cpp
+  Generating Code...
+  SoundexCodeGenerator.vcxproj -> C:\Users\Shanks\source\repos\SoundexCodeGenerator\Debug\SoundexCodeGenerator.exe

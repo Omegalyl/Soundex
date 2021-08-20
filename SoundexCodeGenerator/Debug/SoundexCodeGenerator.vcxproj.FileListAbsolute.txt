@@ -1,0 +1,2 @@
+C:\Users\Shanks\source\repos\SoundexCodeGenerator\Debug\SoundexCodeGenerator.exe
+C:\Users\Shanks\source\repos\SoundexCodeGenerator\Debug\SoundexCodeGenerator.pdb
