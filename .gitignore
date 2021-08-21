@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SoundexCodeGenerator/.vs/SoundexCodeGenerator/v16
+/.vs
