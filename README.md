@@ -29,5 +29,5 @@ A Soundex code is a four-character string in the form of an initial letter follo
     
     5 Remove all zeros from the code.
     
-    6 Make the code exactly length 4 by padding with zeros or truncating the excess.
+    6 Make the code exactly length 4 by padding with zeros or removing the excess.
  Example "Curie" (C600) and "O'Conner" (O256).
