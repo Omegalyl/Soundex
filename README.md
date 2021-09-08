@@ -7,7 +7,7 @@ Soundex was developed by Robert C. Russell and Margaret King Odell and patented 
 
 The National Archives and Records Administration (NARA) maintains the current rule set for the official implementation of Soundex used by the U.S. government. These encoding rules are available from NARA, upon request, in the form of General Information Leaflet 55, "Using the Census Soundex". 
 ## How Soundex codes are generated
-Before you get started with coding, we want to introduce the Soundex algorithm itself. A Soundex code is a four-character string in the form of an initial letter followed by three digits, such as Z452. The initial letter is the first letter of the surname, and the three digits are drawn from the sounds within the surname using the following algorithm:
+A Soundex code is a four-character string in the form of an initial letter followed by three digits, such as Z452. The initial letter is the first letter of the surname, and the three digits are drawn from the sounds within the surname using the following algorithm:
 
     1 Discard all non-letter characters from the surname: dashes, spaces, apostrophes, and so on.
 
